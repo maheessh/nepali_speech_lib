@@ -1,0 +1,10 @@
+setup.py
+NepaliSpeechLib.egg-info/PKG-INFO
+NepaliSpeechLib.egg-info/SOURCES.txt
+NepaliSpeechLib.egg-info/dependency_links.txt
+NepaliSpeechLib.egg-info/requires.txt
+NepaliSpeechLib.egg-info/top_level.txt
+nepali_speech_lib/__init__.py
+nepali_speech_lib/responses.py
+nepali_speech_lib/speech_recognition.py
+nepali_speech_lib/text_to_speech.py

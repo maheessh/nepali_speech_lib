@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: NepaliSpeechLib
+Version: 0.1
+Summary: A library for Nepali speech recognition and text-to-speech.
+Author: Your Name
+Requires-Dist: speechrecognition
+Requires-Dist: gtts
+Requires-Dist: pydub
